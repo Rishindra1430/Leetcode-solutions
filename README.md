@@ -4,3 +4,4 @@
 |---|---------|-----------|--------|---------|--------|------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Unknown | Misc | 3 ms | 12.9 MB | [Solution](Misc/two-sum.py) |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | Linked List, Math, Recursion | 9 ms | 12.4 MB | [Solution](Linked-List/add-two-numbers.py) |
+| 3 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium | Array, Math, Stack | 0 ms | 17 MB | [Solution](Array/evaluate-reverse-polish-notation.cpp) |

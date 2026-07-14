@@ -6,3 +6,4 @@
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | Linked List, Math, Recursion | 9 ms | 12.4 MB | [Solution](Linked-List/add-two-numbers.py) |
 | 3 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium | Array, Math, Stack | 0 ms | 17 MB | [Solution](Array/evaluate-reverse-polish-notation.cpp) |
 | 4 | [Decode String](https://leetcode.com/problems/decode-string/) | Medium | String, Stack, Recursion | 0 ms | 9.6 MB | [Solution](String/decode-string.cpp) |
+| 5 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | Medium | String, Stack, Greedy, Monotonic Stack | 0 ms | 9.8 MB | [Solution](String/remove-duplicate-letters.cpp) |

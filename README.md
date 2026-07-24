@@ -12,3 +12,4 @@
 | 8 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | Math, Dynamic Programming, Memoization | 0 ms | 7.9 MB | [Solution](Math/climbing-stairs.cpp) |
 | 9 | [Jump Game](https://leetcode.com/problems/jump-game/) | Medium | Array, Dynamic Programming, Greedy | 0 ms | 52.4 MB | [Solution](Array/jump-game.cpp) |
 | 10 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | Math | 7 ms | 8.5 MB | [Solution](Math/palindrome-number.cpp) |
+| 11 | [House Robber](https://leetcode.com/problems/house-robber/) | Medium | Array, Dynamic Programming | 0 ms | 10.7 MB | [Solution](Array/house-robber.cpp) |

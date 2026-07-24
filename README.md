@@ -11,3 +11,4 @@
 | 7 | [Car Fleet](https://leetcode.com/problems/car-fleet/) | Medium | Array, Stack, Sorting, Monotonic Stack | 50 ms | 113.4 MB | [Solution](Array/car-fleet.cpp) |
 | 8 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | Math, Dynamic Programming, Memoization | 0 ms | 7.9 MB | [Solution](Math/climbing-stairs.cpp) |
 | 9 | [Jump Game](https://leetcode.com/problems/jump-game/) | Medium | Array, Dynamic Programming, Greedy | 0 ms | 52.4 MB | [Solution](Array/jump-game.cpp) |
+| 10 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | Math | 7 ms | 8.5 MB | [Solution](Math/palindrome-number.cpp) |

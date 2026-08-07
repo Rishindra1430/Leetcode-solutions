@@ -13,3 +13,4 @@
 | 9 | [Jump Game](https://leetcode.com/problems/jump-game/) | Medium | Array, Dynamic Programming, Greedy | 0 ms | 52.4 MB | [Solution](Array/jump-game.cpp) |
 | 10 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | Math | 7 ms | 8.5 MB | [Solution](Math/palindrome-number.cpp) |
 | 11 | [House Robber](https://leetcode.com/problems/house-robber/) | Medium | Array, Dynamic Programming | 0 ms | 10.7 MB | [Solution](Array/house-robber.cpp) |
+| 12 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Easy | Array, Sliding Window | 0 ms | 113.7 MB | [Solution](Array/maximum-average-subarray-i.cpp) |

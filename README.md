@@ -14,3 +14,4 @@
 | 10 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | Math | 7 ms | 8.5 MB | [Solution](Math/palindrome-number.cpp) |
 | 11 | [House Robber](https://leetcode.com/problems/house-robber/) | Medium | Array, Dynamic Programming | 0 ms | 10.7 MB | [Solution](Array/house-robber.cpp) |
 | 12 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Easy | Array, Sliding Window | 0 ms | 113.7 MB | [Solution](Array/maximum-average-subarray-i.cpp) |
+| 13 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium | String, Sliding Window | 3 ms | 13.3 MB | [Solution](String/maximum-number-of-vowels-in-a-substring-of-given-length.cpp) |

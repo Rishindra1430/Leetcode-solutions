@@ -16,3 +16,4 @@
 | 12 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Easy | Array, Sliding Window | 0 ms | 113.7 MB | [Solution](Array/maximum-average-subarray-i.cpp) |
 | 13 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium | String, Sliding Window | 3 ms | 13.3 MB | [Solution](String/maximum-number-of-vowels-in-a-substring-of-given-length.cpp) |
 | 14 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | Medium | Array, Binary Search, Sliding Window, Prefix Sum | 0 ms | 69.3 MB | [Solution](Array/max-consecutive-ones-iii.cpp) |
+| 15 | [Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy | String, Sliding Window | 0 ms | 8.4 MB | [Solution](String/minimum-recolors-to-get-k-consecutive-black-blocks.cpp) |

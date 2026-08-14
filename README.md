@@ -18,3 +18,4 @@
 | 14 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | Medium | Array, Binary Search, Sliding Window, Prefix Sum | 0 ms | 69.3 MB | [Solution](Array/max-consecutive-ones-iii.cpp) |
 | 15 | [Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy | String, Sliding Window | 0 ms | 8.4 MB | [Solution](String/minimum-recolors-to-get-k-consecutive-black-blocks.cpp) |
 | 17 | [Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number/) | Easy | Math, String, Sliding Window | 0 ms | 8 MB | [Solution](Math/find-the-k-beauty-of-a-number.cpp) |
+| 17 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | Medium | Array, Hash Table, Sliding Window | 45 ms | 84.7 MB | [Solution](Array/fruit-into-baskets.cpp) |

@@ -6,7 +6,7 @@ public:
         for(int i = 0;i+k<=s.size();i++){
             string temp = s.substr(i,k);
             int x = stoi(temp);
-            if(x!=0 && x % 2 ==0){
+            if(x!=0 && num % x ==0){
                 cnt++;
             }
         }

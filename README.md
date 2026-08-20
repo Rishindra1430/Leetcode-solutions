@@ -20,4 +20,4 @@
 | 17 | [Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number/) | Easy | Math, String, Sliding Window | 0 ms | 8 MB | [Solution](Math/find-the-k-beauty-of-a-number.cpp) |
 | 17 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | Medium | Array, Hash Table, Sliding Window | 45 ms | 84.7 MB | [Solution](Array/fruit-into-baskets.cpp) |
 | 18 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | Medium | Hash Table, String, Sliding Window | 3 ms | 11 MB | [Solution](Hash-Table/number-of-substrings-containing-all-three-characters.cpp) |
-| 20 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | Hash Table, String, Sorting | 2 ms | 9.8 MB | [Solution](Hash-Table/valid-anagram.cpp) |
+| 20 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | Hash Table, String, Sorting | 0 ms | 7.8 MB | [Solution](Hash-Table/valid-anagram.cpp) |

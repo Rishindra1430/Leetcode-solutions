@@ -21,4 +21,4 @@
 | 17 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | Medium | Array, Hash Table, Sliding Window | 45 ms | 84.7 MB | [Solution](Array/fruit-into-baskets.cpp) |
 | 20 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | Hash Table, String, Sorting | 0 ms | 7.8 MB | [Solution](Hash-Table/valid-anagram.cpp) |
 | 20 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | Medium | Hash Table, String, Sliding Window | 3 ms | 11 MB | [Solution](Hash-Table/number-of-substrings-containing-all-three-characters.cpp) |
-| 20 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | Medium | Hash Table, String, Sliding Window | 7 ms | 10.9 MB | [Solution](Hash-Table/longest-repeating-character-replacement.cpp) |
+| 21 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | Medium | Hash Table, String, Sliding Window | 12 ms | 10.9 MB | [Solution](Hash-Table/longest-repeating-character-replacement.cpp) |

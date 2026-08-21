@@ -4,13 +4,12 @@ public:
         int maxlen = 0;
         int l = 0;
         int r = 0;
+        int maxfreq = 0;
         unordered_map<char,int>mpp;
         while(r<s.size()){
             mpp[s[r]]++;
-            int maxfreq = 0;
-            for(auto p: mpp){
-                maxfreq = max(maxfreq,p.second);
-            }
+            maxfreq = max(maxfreq,mpp[s[r]]);
+            
             if((r-l+1) - maxfreq <= k){
                 maxlen = max(maxlen , r-l+1);
             }

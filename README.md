@@ -23,3 +23,4 @@
 | 20 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | Medium | Hash Table, String, Sliding Window | 3 ms | 11 MB | [Solution](Hash-Table/number-of-substrings-containing-all-three-characters.cpp) |
 | 21 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | Medium | Hash Table, String, Sliding Window | 12 ms | 10.9 MB | [Solution](Hash-Table/longest-repeating-character-replacement.cpp) |
 | 21 | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | Medium | Array, Hash Table, Sliding Window, Prefix Sum | 4 ms | 34.9 MB | [Solution](Array/binary-subarrays-with-sum.cpp) |
+| 22 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | Medium | Array, Hash Table, Prefix Sum | 40 ms | 45.4 MB | [Solution](Array/subarray-sum-equals-k.cpp) |

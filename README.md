@@ -24,3 +24,4 @@
 | 21 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | Medium | Hash Table, String, Sliding Window | 12 ms | 10.9 MB | [Solution](Hash-Table/longest-repeating-character-replacement.cpp) |
 | 21 | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | Medium | Array, Hash Table, Sliding Window, Prefix Sum | 4 ms | 34.9 MB | [Solution](Array/binary-subarrays-with-sum.cpp) |
 | 22 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | Medium | Array, Hash Table, Prefix Sum | 40 ms | 45.4 MB | [Solution](Array/subarray-sum-equals-k.cpp) |
+| 23 | [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/) | Medium | Array, Hash Table, Math, Sliding Window, Prefix Sum | 16 ms | 77.9 MB | [Solution](Array/count-number-of-nice-subarrays.cpp) |

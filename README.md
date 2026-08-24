@@ -26,3 +26,4 @@
 | 22 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | Medium | Array, Hash Table, Prefix Sum | 40 ms | 45.4 MB | [Solution](Array/subarray-sum-equals-k.cpp) |
 | 23 | [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/) | Medium | Array, Hash Table, Math, Sliding Window, Prefix Sum | 16 ms | 77.9 MB | [Solution](Array/count-number-of-nice-subarrays.cpp) |
 | 24 | [K Divisible Elements Subarrays](https://leetcode.com/problems/k-divisible-elements-subarrays/) | Medium | Array, Hash Table, Trie, Rolling Hash, Hash Function, Enumeration | 901 ms | 236.1 MB | [Solution](Array/k-divisible-elements-subarrays.cpp) |
+| 25 | [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | Medium | Array, Divide and Conquer, Dynamic Programming, Queue, Monotonic Queue | 0 ms | 43.6 MB | [Solution](Array/maximum-sum-circular-subarray.cpp) |

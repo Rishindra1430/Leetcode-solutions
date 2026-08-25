@@ -28,3 +28,4 @@
 | 24 | [K Divisible Elements Subarrays](https://leetcode.com/problems/k-divisible-elements-subarrays/) | Medium | Array, Hash Table, Trie, Rolling Hash, Hash Function, Enumeration | 901 ms | 236.1 MB | [Solution](Array/k-divisible-elements-subarrays.cpp) |
 | 25 | [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | Medium | Array, Divide and Conquer, Dynamic Programming, Queue, Monotonic Queue | 0 ms | 43.6 MB | [Solution](Array/maximum-sum-circular-subarray.cpp) |
 | 27 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | Medium | Array, Dynamic Programming | 0 ms | 17.7 MB | [Solution](Array/maximum-product-subarray.cpp) |
+| 27 | [Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/) | Medium | Array, Dynamic Programming | 0 ms | 45.1 MB | [Solution](Array/maximum-absolute-sum-of-any-subarray.cpp) |

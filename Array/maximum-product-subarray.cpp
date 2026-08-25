@@ -2,7 +2,7 @@ class Solution {
 public:
     int maxProduct(vector<int>& nums) {
         int product = 1;
-        int maxProduct = 0;
+        int maxProduct = INT_MIN;
         for(int i =0 ;i<nums.size();i++){
             product*=nums[i];
             maxProduct = max(maxProduct,product);

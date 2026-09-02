@@ -31,3 +31,4 @@
 | 27 | [Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/) | Medium | Array, Dynamic Programming | 0 ms | 45.1 MB | [Solution](Array/maximum-absolute-sum-of-any-subarray.cpp) |
 | 28 | [Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/) | Medium | Array, Hash Table, String, Greedy, Counting | 36 ms | 171.8 MB | [Solution](Array/longest-palindrome-by-concatenating-two-letter-words.cpp) |
 | 29 | [Maximize Pair Strength Using GCD](https://leetcode.com/problems/maximize-pair-strength-using-gcd/) | Easy | Array, Math, Enumeration, Number Theory | 739 ms | 37.5 MB | [Solution](Array/maximize-pair-strength-using-gcd.cpp) |
+| 30 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | Easy | Math, Dynamic Programming, Recursion, Memoization | 13 ms | 7.6 MB | [Solution](Math/fibonacci-number.cpp) |

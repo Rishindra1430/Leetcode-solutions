@@ -33,3 +33,4 @@
 | 29 | [Maximize Pair Strength Using GCD](https://leetcode.com/problems/maximize-pair-strength-using-gcd/) | Easy | Array, Math, Enumeration, Number Theory | 739 ms | 37.5 MB | [Solution](Array/maximize-pair-strength-using-gcd.cpp) |
 | 30 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | Easy | Math, Dynamic Programming, Recursion, Memoization | 13 ms | 7.6 MB | [Solution](Math/fibonacci-number.cpp) |
 | 31 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | Hard | Hash Table, String, Sliding Window | 8 ms | 11.5 MB | [Solution](Hash-Table/minimum-window-substring.cpp) |
+| 32 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | Easy | Array, Math | 0 ms | 14.5 MB | [Solution](Array/find-numbers-with-even-number-of-digits.cpp) |

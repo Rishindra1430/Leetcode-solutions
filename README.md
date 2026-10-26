@@ -35,3 +35,4 @@
 | 31 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | Hard | Hash Table, String, Sliding Window | 8 ms | 11.5 MB | [Solution](Hash-Table/minimum-window-substring.cpp) |
 | 32 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | Easy | Array, Math | 0 ms | 14.5 MB | [Solution](Array/find-numbers-with-even-number-of-digits.cpp) |
 | 34 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | Medium | Array, Binary Search | 0 ms | 26.2 MB | [Solution](Array/single-element-in-a-sorted-array.cpp) |
+| 34 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Medium | Math | 0 ms | 8.4 MB | [Solution](Math/reverse-integer.cpp) |

@@ -2,7 +2,6 @@
 
 | # | Problem | Difficulty | Topics | Runtime | Memory | Link |
 |---|---------|-----------|--------|---------|--------|------|
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Unknown | Misc | 3 ms | 12.9 MB | [Solution](Misc/two-sum.py) |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | Linked List, Math, Recursion | 9 ms | 12.4 MB | [Solution](Linked-List/add-two-numbers.py) |
 | 3 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium | Array, Math, Stack | 0 ms | 17 MB | [Solution](Array/evaluate-reverse-polish-notation.cpp) |
 | 4 | [Decode String](https://leetcode.com/problems/decode-string/) | Medium | String, Stack, Recursion | 0 ms | 9.6 MB | [Solution](String/decode-string.cpp) |
@@ -36,3 +35,4 @@
 | 32 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | Easy | Array, Math | 0 ms | 14.5 MB | [Solution](Array/find-numbers-with-even-number-of-digits.cpp) |
 | 34 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | Medium | Array, Binary Search | 0 ms | 26.2 MB | [Solution](Array/single-element-in-a-sorted-array.cpp) |
 | 34 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Medium | Math | 0 ms | 8.4 MB | [Solution](Math/reverse-integer.cpp) |
+| 35 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Array, Hash Table | 2 ms | 15 MB | [Solution](Array/two-sum.cpp) |

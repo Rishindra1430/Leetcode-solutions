@@ -5,9 +5,7 @@ public:
         int l = 0;
         int h = n -1;
         char ans = letters[0];
-        if(target == 'z'){
-            return letters[0];
-        }
+        
         while(l<=h){
             int mid = l + (h-l)/2;
             

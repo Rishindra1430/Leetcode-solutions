@@ -4,7 +4,7 @@ public:
         int n = letters.size();
         int l = 0;
         int h = n -1;
-        char ans;
+        char ans = letters[0];
         if(target == 'z'){
             return letters[0];
         }

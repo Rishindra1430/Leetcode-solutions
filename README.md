@@ -37,3 +37,4 @@
 | 34 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Medium | Math | 0 ms | 8.4 MB | [Solution](Math/reverse-integer.cpp) |
 | 35 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Array, Hash Table | 2 ms | 15 MB | [Solution](Array/two-sum.cpp) |
 | 35 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | Array, Hash Table, Sorting | 91 ms | 112.7 MB | [Solution](Array/contains-duplicate.cpp) |
+| 36 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | Easy | Array, Binary Search | 0 ms | 8.3 MB | [Solution](Array/find-smallest-letter-greater-than-target.cpp) |

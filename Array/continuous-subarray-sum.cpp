@@ -2,14 +2,18 @@ class Solution {
 public:
     bool checkSubarraySum(vector<int>& nums, int k) {
         unordered_map<int,int> mpp;
-        vector<int> preSum;
+        int n = nums.size();
+        int preSum =0 ;
+        mpp[0] = 0;
         bool isTrue = false;
         for(int i =0 ;i<nums.size();i++){
-            preSum.push_back(nums[i]);
-            if(preSum[i]%k == 0){
-                isTrue = true;
-            } 
+            preSum  = (preSum+nums[i])%k;
+            if(mpp.find(preSum) != mpp.end()){
+                if(i+1 - mpp[preSum] >= 2) return true;
+            } else{
+                mpp[preSum] = i+1;
+            }
         }
-        return isTrue;
+        return false;
     }
 };

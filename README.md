@@ -40,4 +40,4 @@
 | 37 | [Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/) | Easy | Array, Binary Search, Greedy, Sorting, Prefix Sum | 79 ms | 121.3 MB | [Solution](Array/longest-subsequence-with-limited-sum.cpp) |
 | 39 | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | Medium | Array, Hash Table, Math, Prefix Sum, Pigeonhole Principle | 84 ms | 146.2 MB | [Solution](Array/continuous-subarray-sum.cpp) |
 | 39 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | Medium | Array, Hash Table, Prefix Sum | 41 ms | 45.3 MB | [Solution](Array/subarray-sum-equals-k.cpp) |
-| 39 | [Count Primes](https://leetcode.com/problems/count-primes/) | Medium | Array, Math, Enumeration, Number Theory, Primality Test, Sieve Theory, Prime Number Sieve | 0 ms | 7.7 MB | [Solution](Array/count-primes.cpp) |
+| 40 | [Count Primes](https://leetcode.com/problems/count-primes/) | Medium | Array, Math, Enumeration, Number Theory, Primality Test, Sieve Theory, Prime Number Sieve | 0 ms | 7.6 MB | [Solution](Array/count-primes.cpp) |

@@ -1,21 +1,21 @@
 class Solution {
 public:
-    int countPrimes(int n) {
-        if(n<=2){
-            return 0;
-        }
-        int cnt = 1;
-        bool isPrime = true;
-        for(int i = 3;i<n;i++){
-            for(int j = 3;j<i;j++){
-                if(i%j == 0){
-                    isPrime = false;
-                }
+    bool isHappy(int n) {
+        unordered_set<int> st;
+        
+        while(n != 1){
+            int sum = 0;
+            if(st.find(n) != st.end()){
+                return false;
             }
-            if(isPrime){
-                cnt++;
+            st.insert(n);
+            while(n!=0){
+                int last = n%10;
+                sum+= last*last;
+                n/=10;
             }
+            n = sum;
         }
-        return cnt;
+        return true;
     }
 };

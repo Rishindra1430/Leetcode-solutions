@@ -41,4 +41,4 @@
 | 39 | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | Medium | Array, Hash Table, Math, Prefix Sum, Pigeonhole Principle | 84 ms | 146.2 MB | [Solution](Array/continuous-subarray-sum.cpp) |
 | 39 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | Medium | Array, Hash Table, Prefix Sum | 41 ms | 45.3 MB | [Solution](Array/subarray-sum-equals-k.cpp) |
 | 40 | [Count Primes](https://leetcode.com/problems/count-primes/) | Medium | Array, Math, Enumeration, Number Theory, Primality Test, Sieve Theory, Prime Number Sieve | 0 ms | 7.6 MB | [Solution](Array/count-primes.cpp) |
-| 40 | [Happy Number](https://leetcode.com/problems/happy-number/) | Easy | Hash Table, Math, Two Pointers, Floyd's Cycle Finding Algorithm | 0 ms | 8 MB | [Solution](Hash-Table/happy-number.cpp) |
+| 41 | [Happy Number](https://leetcode.com/problems/happy-number/) | Easy | Hash Table, Math, Two Pointers, Floyd's Cycle Finding Algorithm | 3 ms | 8.4 MB | [Solution](Hash-Table/happy-number.cpp) |

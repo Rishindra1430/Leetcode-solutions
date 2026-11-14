@@ -43,3 +43,4 @@
 | 41 | [Happy Number](https://leetcode.com/problems/happy-number/) | Easy | Hash Table, Math, Two Pointers, Floyd's Cycle Finding Algorithm | 3 ms | 8.4 MB | [Solution](Hash-Table/happy-number.cpp) |
 | 41 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Medium | Array, Math, Matrix | 0 ms | 8.5 MB | [Solution](Array/rotate-image.cpp) |
 | 42 | [Count Primes](https://leetcode.com/problems/count-primes/) | Medium | Array, Math, Enumeration, Number Theory, Primality Test, Sieve Theory, Prime Number Sieve | 0 ms | 7.5 MB | [Solution](Array/count-primes.cpp) |
+| 42 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | Medium | Hash Table, Two Pointers, String, Sliding Window | 0 ms | 7.6 MB | [Solution](Hash-Table/permutation-in-string.cpp) |

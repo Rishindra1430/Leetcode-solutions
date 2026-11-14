@@ -1,6 +1,7 @@
 class Solution {
 public:
     bool checkInclusion(string s1, string s2) {
+        if(s2.size() < s1.size()) return false;
         vector<int> freq_s1(26,0);
         vector<int> window(26,0);
         for(int i = 0;i<s1.size();i++){

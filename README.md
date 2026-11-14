@@ -44,3 +44,4 @@
 | 41 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Medium | Array, Math, Matrix | 0 ms | 8.5 MB | [Solution](Array/rotate-image.cpp) |
 | 42 | [Count Primes](https://leetcode.com/problems/count-primes/) | Medium | Array, Math, Enumeration, Number Theory, Primality Test, Sieve Theory, Prime Number Sieve | 0 ms | 7.5 MB | [Solution](Array/count-primes.cpp) |
 | 43 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | Medium | Hash Table, Two Pointers, String, Sliding Window | 3 ms | 9.9 MB | [Solution](Hash-Table/permutation-in-string.cpp) |
+| 43 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Medium | Array, Matrix, Simulation | 0 ms | 9.2 MB | [Solution](Array/spiral-matrix.cpp) |

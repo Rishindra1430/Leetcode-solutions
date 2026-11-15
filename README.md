@@ -45,4 +45,4 @@
 | 42 | [Count Primes](https://leetcode.com/problems/count-primes/) | Medium | Array, Math, Enumeration, Number Theory, Primality Test, Sieve Theory, Prime Number Sieve | 0 ms | 7.5 MB | [Solution](Array/count-primes.cpp) |
 | 43 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | Medium | Hash Table, Two Pointers, String, Sliding Window | 3 ms | 9.9 MB | [Solution](Hash-Table/permutation-in-string.cpp) |
 | 43 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Medium | Array, Matrix, Simulation | 0 ms | 9.2 MB | [Solution](Array/spiral-matrix.cpp) |
-| 44 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | Easy | Binary Search, Interactive | 0 ms | 7.7 MB | [Solution](Binary-Search/first-bad-version.cpp) |
+| 45 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | Easy | Binary Search, Interactive | 1 ms | 8 MB | [Solution](Binary-Search/first-bad-version.cpp) |

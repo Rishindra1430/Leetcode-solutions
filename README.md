@@ -47,4 +47,4 @@
 | 43 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Medium | Array, Matrix, Simulation | 0 ms | 9.2 MB | [Solution](Array/spiral-matrix.cpp) |
 | 45 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | Easy | Binary Search, Interactive | 1 ms | 8 MB | [Solution](Binary-Search/first-bad-version.cpp) |
 | 45 | [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) | Medium | Math, Recursion | 0 ms | 7.8 MB | [Solution](Math/count-good-numbers.cpp) |
-| 47 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | Easy | Math, Binary Search | 0 ms | 7.8 MB | [Solution](Math/arranging-coins.cpp) |
+| 47 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | Easy | Math, Binary Search | 0 ms | 7.7 MB | [Solution](Math/arranging-coins.cpp) |

@@ -4,9 +4,11 @@ public:
         int l = 0;
         int r = n;
         int res = 0;
+
         while(l<=r){
             int mid = l + (r-l)/2;
-            if(1LL*(mid*(mid+1)/2)<=n){
+            long long coins = 1LL*mid*(mid+1)/2;
+            if(coins<=n){
                 res = mid;
                 l = mid+1;
             }else{

@@ -48,3 +48,4 @@
 | 45 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | Easy | Binary Search, Interactive | 1 ms | 8 MB | [Solution](Binary-Search/first-bad-version.cpp) |
 | 45 | [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) | Medium | Math, Recursion | 0 ms | 7.8 MB | [Solution](Math/count-good-numbers.cpp) |
 | 47 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | Easy | Math, Binary Search | 1 ms | 8.7 MB | [Solution](Math/arranging-coins.cpp) |
+| 47 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/) | Easy | Math, Number Theory | 0 ms | 7.9 MB | [Solution](Math/smallest-even-multiple.cpp) |

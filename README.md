@@ -49,3 +49,4 @@
 | 45 | [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) | Medium | Math, Recursion | 0 ms | 7.8 MB | [Solution](Math/count-good-numbers.cpp) |
 | 47 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | Easy | Math, Binary Search | 1 ms | 8.7 MB | [Solution](Math/arranging-coins.cpp) |
 | 47 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/) | Easy | Math, Number Theory | 0 ms | 7.9 MB | [Solution](Math/smallest-even-multiple.cpp) |
+| 48 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | Easy | Array, Math, Number Theory, Euclidean Algorithm, Greatest Common Divisor | 0 ms | 15.9 MB | [Solution](Array/find-greatest-common-divisor-of-array.cpp) |

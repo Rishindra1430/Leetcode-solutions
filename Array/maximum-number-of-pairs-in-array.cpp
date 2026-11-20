@@ -9,9 +9,9 @@ public:
             mpp[nums[i]]++;
             
         }
-        for(int i= 0;i<mpp.size();i++){
-            pairs+= mpp[nums[i]]/2;
-            leftout += mpp[nums[i]]%2;
+        for(auto it : mpp){
+            pairs+= it.second/2;
+            leftout += it.second%2;
         }
         ans.push_back(pairs);
         ans.push_back(leftout);

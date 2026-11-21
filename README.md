@@ -52,3 +52,4 @@
 | 48 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | Easy | Array, Math, Number Theory, Euclidean Algorithm, Greatest Common Divisor | 0 ms | 15.9 MB | [Solution](Array/find-greatest-common-divisor-of-array.cpp) |
 | 50 | [Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array/) | Easy | Array, Hash Table, Counting | 0 ms | 12 MB | [Solution](Array/maximum-number-of-pairs-in-array.cpp) |
 | 50 | [Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/) | Easy | Math, Enumeration, Number Theory, Euclidean Algorithm, Greatest Common Divisor | 0 ms | 7.7 MB | [Solution](Math/number-of-common-factors.cpp) |
+| 51 | [Three Divisors](https://leetcode.com/problems/three-divisors/) | Easy | Math, Enumeration, Number Theory, Prime Factorization, Sieve Theory | 0 ms | 7.8 MB | [Solution](Math/three-divisors.cpp) |

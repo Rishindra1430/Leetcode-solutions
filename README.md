@@ -53,3 +53,4 @@
 | 50 | [Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array/) | Easy | Array, Hash Table, Counting | 0 ms | 12 MB | [Solution](Array/maximum-number-of-pairs-in-array.cpp) |
 | 50 | [Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/) | Easy | Math, Enumeration, Number Theory, Euclidean Algorithm, Greatest Common Divisor | 0 ms | 7.7 MB | [Solution](Math/number-of-common-factors.cpp) |
 | 51 | [Three Divisors](https://leetcode.com/problems/three-divisors/) | Easy | Math, Enumeration, Number Theory, Prime Factorization, Sieve Theory | 0 ms | 7.8 MB | [Solution](Math/three-divisors.cpp) |
+| 52 | [Add Digits](https://leetcode.com/problems/add-digits/) | Easy | Math, Simulation, Number Theory | 0 ms | 8.4 MB | [Solution](Math/add-digits.cpp) |

@@ -54,4 +54,4 @@
 | 51 | [Three Divisors](https://leetcode.com/problems/three-divisors/) | Easy | Math, Enumeration, Number Theory, Prime Factorization, Sieve Theory | 0 ms | 7.8 MB | [Solution](Math/three-divisors.cpp) |
 | 52 | [Add Digits](https://leetcode.com/problems/add-digits/) | Easy | Math, Simulation, Number Theory | 0 ms | 8.4 MB | [Solution](Math/add-digits.cpp) |
 | 53 | [Count Primes](https://leetcode.com/problems/count-primes/) | Medium | Array, Math, Enumeration, Number Theory, Primality Test, Sieve Theory, Prime Number Sieve | 202 ms | 157.6 MB | [Solution](Array/count-primes.cpp) |
-| 53 | [Prime In Diagonal](https://leetcode.com/problems/prime-in-diagonal/) | Easy | Array, Math, Matrix, Number Theory | 0 ms | 7.9 MB | [Solution](Array/prime-in-diagonal.cpp) |
+| 54 | [Prime In Diagonal](https://leetcode.com/problems/prime-in-diagonal/) | Easy | Array, Math, Matrix, Number Theory | 3 ms | 39.3 MB | [Solution](Array/prime-in-diagonal.cpp) |

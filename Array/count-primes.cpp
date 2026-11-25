@@ -12,7 +12,7 @@ public:
     int countPrimes(int n) {
         int cnt = 0;
         if(n>2) cnt = 1;
-        for(int i = 3;i<n;i+=2){
+        for(int i = 3;i*i<n;i+=2){
             if(isPrime(i)) cnt++;
         }
         return cnt;

@@ -1,21 +1,18 @@
 class Solution {
 public:
-    int countPrimes(int n) {
-        if(n<=2){
-            return 0;
+    bool isPrime(int n){
+        if(n<2) return false;
+        for(int i = 2;i*i<=n;i++){
+            if(n%i == 0){
+                return false;
+            }
         }
+        return true;
+    }
+    int countPrimes(int n) {
         int cnt = 0;
-        
         for(int i = 2;i<n;i++){
-            bool isPrime = true;
-            for(int j = 2;j*j<=i;j++){
-                if(i%j == 0){
-                    isPrime = false;
-                }
-            }
-            if(isPrime){
-                cnt++;
-            }
+            if(isPrime(n)) cnt++;
         }
         return cnt;
     }

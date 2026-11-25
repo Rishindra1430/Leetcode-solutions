@@ -18,6 +18,7 @@ public:
                 maxi = max(maxi,nums[i][n-i-1]);
             }
         }
-        return maxi;
+        if(maxi == INT_MIN) return 0;
+        else return maxi;
     }
 };

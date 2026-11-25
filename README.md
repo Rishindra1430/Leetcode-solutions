@@ -42,7 +42,6 @@
 | 39 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | Medium | Array, Hash Table, Prefix Sum | 41 ms | 45.3 MB | [Solution](Array/subarray-sum-equals-k.cpp) |
 | 41 | [Happy Number](https://leetcode.com/problems/happy-number/) | Easy | Hash Table, Math, Two Pointers, Floyd's Cycle Finding Algorithm | 3 ms | 8.4 MB | [Solution](Hash-Table/happy-number.cpp) |
 | 41 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Medium | Array, Math, Matrix | 0 ms | 8.5 MB | [Solution](Array/rotate-image.cpp) |
-| 42 | [Count Primes](https://leetcode.com/problems/count-primes/) | Medium | Array, Math, Enumeration, Number Theory, Primality Test, Sieve Theory, Prime Number Sieve | 0 ms | 7.5 MB | [Solution](Array/count-primes.cpp) |
 | 43 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | Medium | Hash Table, Two Pointers, String, Sliding Window | 3 ms | 9.9 MB | [Solution](Hash-Table/permutation-in-string.cpp) |
 | 43 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Medium | Array, Matrix, Simulation | 0 ms | 9.2 MB | [Solution](Array/spiral-matrix.cpp) |
 | 45 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | Easy | Binary Search, Interactive | 1 ms | 8 MB | [Solution](Binary-Search/first-bad-version.cpp) |
@@ -54,3 +53,4 @@
 | 50 | [Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/) | Easy | Math, Enumeration, Number Theory, Euclidean Algorithm, Greatest Common Divisor | 0 ms | 7.7 MB | [Solution](Math/number-of-common-factors.cpp) |
 | 51 | [Three Divisors](https://leetcode.com/problems/three-divisors/) | Easy | Math, Enumeration, Number Theory, Prime Factorization, Sieve Theory | 0 ms | 7.8 MB | [Solution](Math/three-divisors.cpp) |
 | 52 | [Add Digits](https://leetcode.com/problems/add-digits/) | Easy | Math, Simulation, Number Theory | 0 ms | 8.4 MB | [Solution](Math/add-digits.cpp) |
+| 53 | [Count Primes](https://leetcode.com/problems/count-primes/) | Medium | Array, Math, Enumeration, Number Theory, Primality Test, Sieve Theory, Prime Number Sieve | 0 ms | 8 MB | [Solution](Array/count-primes.cpp) |
